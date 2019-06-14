@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MedicineReminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_medicine_text">Press + icon to Add meidicne</string>
+    <string name="fill_form">Fill the form below</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="repetation">No of Repetation ( Hours) </string>
+    <string name="delete">Delete</string>
+    <string name="default_repetation">24</string>
+    <string name="alarm">Alarm</string>
+    <string name="save">Save</string>
+    <string name="medicine_name">Medicine Name</string>
+</resources>
